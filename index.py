@@ -108,6 +108,6 @@ webrtc_streamer(
 # ------------------------- Footer -------------------------
 st.markdown("""
 ---
-💡 *This app uses an ML model to predict gender based on voice features like pitch, MFCC, and Chroma.*
+💡 *This app uses an Ai ML model to predict gender based on voice features like pitch, MFCC, and Chroma.*
 If you need help training the model or have any issues, feel free to reach out.
 """)
