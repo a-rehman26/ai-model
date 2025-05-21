@@ -1,0 +1,6 @@
+librosa
+numpy
+streamlit
+scikit-learn
+streamlit-webrtc
+soundfile
